@@ -1,0 +1,1 @@
+export const API_URL = "https://zipnote.io/api/v1/";
